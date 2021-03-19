@@ -1,24 +1,10 @@
-# spellingtests
+# SpellingTests
 
-## Project setup
-```
-npm install
-```
+Spelling test app with voice synthesis created with Vue as part of Nashville Software School's Vue workshop
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+Deployed via Firebase:
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://spellingtest-90fe1.web.app/
+
